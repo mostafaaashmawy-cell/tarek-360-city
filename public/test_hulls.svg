@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2752 1536" width="2752" height="1536">
+    <image href="satk-masterplan-blocks.jpg" width="2752" height="1536" />
+  
+    <polygon points="2378,400 2456,308 2518,294 2580,310 2492,430" fill="#eab30850" stroke="#eab308" stroke-width="4" />
+    <circle cx="2485" cy="348" r="14" fill="#eab308" stroke="#fff" stroke-width="3" />
+    <text x="2485" y="328" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">yellow</text>
+    
+    <polygon points="2080,326 2154,312 2346,302 2380,304 2384,316 2372,346 2328,390 2114,364" fill="#22c55e50" stroke="#22c55e" stroke-width="4" />
+    <circle cx="2270" cy="333" r="14" fill="#22c55e" stroke="#fff" stroke-width="3" />
+    <text x="2270" y="313" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">green</text>
+    
+    <polygon points="1750,490 2008,318 2042,324 2092,354 2088,372 1868,542 1768,510" fill="#ef444450" stroke="#ef4444" stroke-width="4" />
+    <circle cx="1945" cy="416" r="14" fill="#ef4444" stroke="#fff" stroke-width="3" />
+    <text x="1945" y="396" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">red</text>
+    
+    <polygon points="2118,406 2154,368 2216,362 2456,442 2408,506 2240,462" fill="#06b6d450" stroke="#06b6d4" stroke-width="4" />
+    <circle cx="2265" cy="424" r="14" fill="#06b6d4" stroke="#fff" stroke-width="3" />
+    <text x="2265" y="404" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">cyan</text>
+    
+    <polygon points="1248,574 1522,424 1610,460 1332,638 1248,588" fill="#ec489950" stroke="#ec4899" stroke-width="4" />
+    <circle cx="1392" cy="537" r="14" fill="#ec4899" stroke="#fff" stroke-width="3" />
+    <text x="1392" y="517" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">pink</text>
+    
+    <polygon points="526,576 776,470 858,472 888,500 602,634 584,634 534,602" fill="#eab30850" stroke="#eab308" stroke-width="4" />
+    <circle cx="681" cy="555" r="14" fill="#eab308" stroke="#fff" stroke-width="3" />
+    <text x="681" y="535" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">yellow</text>
+    
+    <polygon points="1556,548 1560,528 1578,512 1660,476 1856,552 1894,578 1804,670 1560,558" fill="#22c55e50" stroke="#22c55e" stroke-width="4" />
+    <circle cx="1684" cy="553" r="14" fill="#22c55e" stroke="#fff" stroke-width="3" />
+    <text x="1684" y="533" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">green</text>
+    
+    <polygon points="1918,560 1940,516 1988,480 2274,586 2286,604 2224,682" fill="#ec489950" stroke="#ec4899" stroke-width="4" />
+    <circle cx="2105" cy="571" r="14" fill="#ec4899" stroke="#fff" stroke-width="3" />
+    <text x="2105" y="551" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">pink</text>
+    
+    <polygon points="746,722 748,702 772,686 1092,528 1158,554 1170,574 1168,604 826,788" fill="#ec489950" stroke="#ec4899" stroke-width="4" />
+    <circle cx="960" cy="645" r="14" fill="#ec4899" stroke="#fff" stroke-width="3" />
+    <text x="960" y="625" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">pink</text>
+    
+    <polygon points="1822,672 1924,578 2208,688 2216,702 2130,802" fill="#eab30850" stroke="#eab308" stroke-width="4" />
+    <circle cx="2060" cy="688" r="14" fill="#eab308" stroke="#fff" stroke-width="3" />
+    <text x="2060" y="668" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">yellow</text>
+    
+    <polygon points="850,802 898,762 1214,592 1232,592 1314,642 948,876" fill="#06b6d450" stroke="#06b6d4" stroke-width="4" />
+    <circle cx="1076" cy="711" r="14" fill="#06b6d4" stroke="#fff" stroke-width="3" />
+    <text x="1076" y="691" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">cyan</text>
+    
+    <polygon points="1516,724 1554,676 1626,624 1788,694 1672,800" fill="#06b6d450" stroke="#06b6d4" stroke-width="4" />
+    <circle cx="1631" cy="704" r="14" fill="#06b6d4" stroke="#fff" stroke-width="3" />
+    <text x="1631" y="684" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">cyan</text>
+    
+    <polygon points="1340,846 1364,804 1468,740 1554,776 1664,842 1546,954" fill="#eab30850" stroke="#eab308" stroke-width="4" />
+    <circle cx="1489" cy="827" r="14" fill="#eab308" stroke="#fff" stroke-width="3" />
+    <text x="1489" y="807" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">yellow</text>
+    
+    <polygon points="1818,840 1878,778 1926,750 2070,814 1958,932 1818,860" fill="#06b6d450" stroke="#06b6d4" stroke-width="4" />
+    <circle cx="1911" cy="829" r="14" fill="#06b6d4" stroke="#fff" stroke-width="3" />
+    <text x="1911" y="809" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">cyan</text>
+    
+    <polygon points="1810,856 1842,810 1914,752 1936,752 2070,812 1966,930" fill="#3b82f650" stroke="#3b82f6" stroke-width="4" />
+    <circle cx="1923" cy="819" r="14" fill="#3b82f6" stroke="#fff" stroke-width="3" />
+    <text x="1923" y="799" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">blue</text>
+    
+    <polygon points="1556,964 1678,848 1906,964 1792,1100" fill="#ec489950" stroke="#ec4899" stroke-width="4" />
+    <circle cx="1733" cy="969" r="14" fill="#ec4899" stroke="#fff" stroke-width="3" />
+    <text x="1733" y="949" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">pink</text>
+    
+    <polygon points="1112,980 1136,944 1228,884 1282,862 1478,984 1302,1130 1116,1006" fill="#ec489950" stroke="#ec4899" stroke-width="4" />
+    <circle cx="1236" cy="970" r="14" fill="#ec4899" stroke="#fff" stroke-width="3" />
+    <text x="1236" y="950" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">pink</text>
+    
+    <polygon points="1330,1142 1376,1086 1492,992 1746,1132 1568,1308 1344,1162" fill="#f9731650" stroke="#f97316" stroke-width="4" />
+    <circle cx="1476" cy="1137" r="14" fill="#f97316" stroke="#fff" stroke-width="3" />
+    <text x="1476" y="1117" font-family="sans-serif" font-size="28" font-weight="bold" fill="#fff" stroke="#000" stroke-width="2" text-anchor="middle">orange</text>
+    </svg>

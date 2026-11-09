@@ -1,0 +1,308 @@
+[
+  {
+    "id": "block_red_top",
+    "nameAr": "البلوك الأحمر - فلل القمة المستقلة (Red Block)",
+    "nameEn": "Prime Red Block - Executive Villas",
+    "colName": "الأحمر",
+    "color": "#ef4444",
+    "category": "standalone",
+    "unitType": "فلل مستقلة فاخرة",
+    "area": "480 م²",
+    "specs": "5 غرف نوم ماستر · إطلالة مفتوحة على الحديقة الشمالية · مسبح خاص",
+    "description": "أرقى مجمع فلل مستقلة في الجهة الشمالية الشرقية بتشطيبات ألترا لوكس.",
+    "polygon": "1755,475 2095,335 2090,440 1930,550 1755,480",
+    "center": [
+      1920,
+      435
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1"
+  },
+  {
+    "id": "block_green_top",
+    "nameAr": "البلوك الأخضر - فلل الرويال كورت (Green Block)",
+    "nameEn": "Royal Green Block Villas",
+    "colName": "الأخضر",
+    "color": "#22c55e",
+    "category": "standalone",
+    "unitType": "فلل رويال كورت",
+    "area": "450 م²",
+    "specs": "5 غرف نوم · حديقة خلفية واسعة · مصعد داخلي وتراس بانورامي",
+    "description": "فلل ملكية بتصميم نجدي حديث مجاورة للحزام الأخضر للكمباوند.",
+    "polygon": "2080,325 2380,305 2330,390 2110,365",
+    "center": [
+      2230,
+      345
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1"
+  },
+  {
+    "id": "block_yellow_top_corner",
+    "nameAr": "البلوك الأصفر - فلل الركن الشمالي الشرقي (East Yellow Block)",
+    "nameEn": "East Corner Yellow Block",
+    "colName": "الأصفر",
+    "color": "#eab308",
+    "category": "standalone",
+    "unitType": "فلل الركن الشرقي",
+    "area": "420 م²",
+    "specs": "4 غرف نوم ماستر · صالة استقبال واسعة مزدوجة الارتفاع · مجلس خارجي",
+    "description": "فلل الركن الشرقي المرتفع ذات الخصوصية والإطلالة الاستثنائية.",
+    "polygon": "2375,310 2575,298 2490,435 2375,400",
+    "center": [
+      2480,
+      365
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1"
+  },
+  {
+    "id": "block_pink_mid_right",
+    "nameAr": "البلوك الوردي - تاون هاوس الواحة الشرقية (East Pink Block)",
+    "nameEn": "East Oasis Pink Block",
+    "colName": "الوردي",
+    "color": "#ec4899",
+    "category": "townhouse",
+    "unitType": "تاون هاوس عصري",
+    "area": "340 م²",
+    "specs": "4 غرف نوم · تصميم ذكي مفتوح · روف جاردن وتراس علوي",
+    "description": "صف تاون هاوس حديث بمحاذاة الممرات المشجرة الداخلية.",
+    "polygon": "1985,480 2285,590 2220,685 1920,565",
+    "center": [
+      2100,
+      580
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev?p=satk-masterplan"
+  },
+  {
+    "id": "block_yellow_mid_right",
+    "nameAr": "البلوك الأصفر الأوسط - فلل سنترال إيست (Central East Yellow)",
+    "nameEn": "Central East Yellow Block",
+    "colName": "الأصفر",
+    "color": "#eab308",
+    "category": "standalone",
+    "unitType": "فلل سنترال المستقلة",
+    "area": "400 م²",
+    "specs": "4 غرف نوم + جناح ضيوف · غرفة خادمة وسائق · مسبح خاص",
+    "description": "فلل مستقلة متناسقة تتوسط حدائق القطاع الشرقي.",
+    "polygon": "1835,660 2215,690 2130,800 1815,790",
+    "center": [
+      2015,
+      730
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1"
+  },
+  {
+    "id": "block_blue_amenities",
+    "nameAr": "البلوك الأزرق - فلل ومرافق البوليفارد (Blue Block)",
+    "nameEn": "Boulevard Blue Block",
+    "colName": "الأزرق",
+    "color": "#3b82f6",
+    "category": "amenities",
+    "unitType": "فلل ومرافق فاخرة",
+    "area": "460 م²",
+    "specs": "إطلالة مباشرة على البوليفارد · وصول سريع للكلوب هاوس",
+    "description": "بلوك متميز يجمع بين الفلل الفاخرة والمرافق الخدمية القريبة.",
+    "polygon": "1810,750 2070,810 1970,930 1810,860",
+    "center": [
+      1940,
+      840
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev"
+  },
+  {
+    "id": "block_pink_front_center",
+    "nameAr": "البلوك الوردي الأمامي - فلل الواجهة الجنوبية (Front Pink Block)",
+    "nameEn": "South Frontline Pink Block",
+    "colName": "الوردي",
+    "color": "#ec4899",
+    "category": "standalone",
+    "unitType": "فلل واجهة مستقلة",
+    "area": "500 م²",
+    "specs": "5 غرف نوم ماستر · إطلالة بانورامية على الشارع الرئيسي · مسبح خاص وحديقة محيطة",
+    "description": "أفخم فلل الصف الأول على الشارع الرئيسي بتصميم ملكي معاصر.",
+    "polygon": "1550,850 1905,960 1795,1100 1500,1115",
+    "center": [
+      1730,
+      975
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1"
+  },
+  {
+    "id": "block_orange_front_mid",
+    "nameAr": "البلوك البرتقالي - فلل سنترال بوليفارد (Front Orange Block)",
+    "nameEn": "Central Boulevard Orange Block",
+    "colName": "البرتقالي",
+    "color": "#f97316",
+    "category": "standalone",
+    "unitType": "فلل واجهة فاخرة",
+    "area": "470 م²",
+    "specs": "4 غرف نوم ماستر · بهو استقبال مزدوج · مواقف مظللة لـ 3 سيارات",
+    "description": "فلل الواجهة الوسطى ذات المداخل الخاصة والواجهات الحجرية المعاصرة.",
+    "polygon": "1300,940 1735,930 1620,1260 1285,1120",
+    "center": [
+      1525,
+      1080
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1"
+  },
+  {
+    "id": "block_pink_front_west",
+    "nameAr": "البلوك الوردي الغربي (Front West Pink Block)",
+    "nameEn": "Front West Pink Block",
+    "colName": "الوردي",
+    "color": "#ec4899",
+    "category": "standalone",
+    "unitType": "فلل الصف الأمامي",
+    "area": "450 م²",
+    "specs": "4 غرف نوم · حديقة خاصة واسعة · غرفة سائق ومسبح",
+    "description": "فلل مستقلة على امتداد بوليفارد المشروع مع إطلالة على الحزام الأخضر.",
+    "polygon": "1110,940 1460,860 1310,1130 1110,1120",
+    "center": [
+      1295,
+      995
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1"
+  },
+  {
+    "id": "block_orange_front_corner",
+    "nameAr": "البلوك البرتقالي الركني - فلل الركن الجنوبي الغربي (Corner Orange Block)",
+    "nameEn": "South-West Corner Orange Block",
+    "colName": "البرتقالي",
+    "color": "#f97316",
+    "category": "standalone",
+    "unitType": "فلل الركن الفاخرة",
+    "area": "460 م²",
+    "specs": "4 غرف نوم ماستر · حديقة زاوية بانورامية · تراس أرضي كبير",
+    "description": "فلل الركن الجنوبي الغربي بمحاذاة البوابة والمدخل الرئيسي.",
+    "polygon": "560,800 1140,810 1400,1418 800,1310",
+    "center": [
+      985,
+      1100
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1"
+  },
+  {
+    "id": "block_cyan_center_1",
+    "nameAr": "البلوك السماوي الأوسط (Central Cyan Block)",
+    "nameEn": "Central Cyan Block Villas",
+    "colName": "السماوي",
+    "color": "#06b6d4",
+    "category": "standalone",
+    "unitType": "فلل سنترال بارك",
+    "area": "390 م²",
+    "specs": "4 غرف نوم · مطلة مباشرة على ممر المشاة والحدائق · مسبح عائلي",
+    "description": "فلل وسطية تتوسط الكمباوند وتتميز بالهدوء والخصوصية التامة.",
+    "polygon": "1545,740 1785,695 1680,795 1545,740",
+    "center": [
+      1655,
+      715
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1"
+  },
+  {
+    "id": "block_cyan_center_2",
+    "nameAr": "البلوك السماوي الغربي (West Central Cyan Block)",
+    "nameEn": "West Central Cyan Block",
+    "colName": "السماوي",
+    "color": "#06b6d4",
+    "category": "townhouse",
+    "unitType": "تاون هاوس جاردن",
+    "area": "330 م²",
+    "specs": "3 غرف نوم + ملحق علوي · حديقة خاصة · موقفين سيارات",
+    "description": "تاون هاوس عصري يجمع بين الاستغلال الأمثل للمساحات والتصميم الأنيق.",
+    "polygon": "865,785 1245,595 1310,645 945,875",
+    "center": [
+      1080,
+      735
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev?p=satk-masterplan"
+  },
+  {
+    "id": "block_pink_center",
+    "nameAr": "البلوك الوردي الأوسط (Central Pink Block)",
+    "nameEn": "Central Pink Block Villas",
+    "colName": "الوردي",
+    "color": "#ec4899",
+    "category": "standalone",
+    "unitType": "فلل النخيل المستقلة",
+    "area": "410 م²",
+    "specs": "4 غرف نوم ماستر · حديقة داخلية خاصة · صالة معيشة علوية",
+    "description": "فلل وسطية مميزة على امتداد الشارع الداخلي المظلل.",
+    "polygon": "1255,565 1610,460 1610,500 1330,640",
+    "center": [
+      1430,
+      530
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1"
+  },
+  {
+    "id": "block_cyan_north_west",
+    "nameAr": "البلوك السماوي الشمالي الغربي (North-West Cyan Block)",
+    "nameEn": "North-West Cyan Townhouses",
+    "colName": "السماوي",
+    "color": "#06b6d4",
+    "category": "townhouse",
+    "unitType": "تاون هاوس الواحة الشمالية",
+    "area": "320 م²",
+    "specs": "3 غرف نوم · حديقة خلفية · تراس مفتوح على الطبيعة",
+    "description": "صف تاون هاوس هادئ في الصف الشمالي العلوي من الكمباوند.",
+    "polygon": "725,305 1155,305 1150,450 725,445",
+    "center": [
+      940,
+      375
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev?p=satk-masterplan"
+  },
+  {
+    "id": "block_yellow_west_row",
+    "nameAr": "البلوك الأصفر الغربي (West Yellow Block)",
+    "nameEn": "West Yellow Block Villas",
+    "colName": "الأصفر",
+    "color": "#eab308",
+    "category": "standalone",
+    "unitType": "فلل الواحة المستقلة",
+    "area": "380 م²",
+    "specs": "4 غرف نوم · حديقة محيطة واسعة · مصعد داخلي",
+    "description": "فلل مستقلة ذات خصوصية عالية في الجانب الغربي الهادئ.",
+    "polygon": "505,445 950,475 895,525 605,675",
+    "center": [
+      730,
+      540
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1"
+  },
+  {
+    "id": "block_pink_west_cluster",
+    "nameAr": "البلوك الوردي الغربي (West Pink Block)",
+    "nameEn": "West Pink Block Townhouses",
+    "colName": "الوردي",
+    "color": "#ec4899",
+    "category": "townhouse",
+    "unitType": "تاون هاوس عصري",
+    "area": "310 م²",
+    "specs": "3 غرف نوم · حديقة خاصة · تصميم عصري مفتوح",
+    "description": "تاون هاوس مميز بمداخل خاصة ومواقف سيارات مظللة.",
+    "polygon": "755,690 1160,555 1170,605 825,790",
+    "center": [
+      960,
+      660
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev?p=satk-masterplan"
+  },
+  {
+    "id": "block_yellow_west_perimeter",
+    "nameAr": "البلوك الأصفر الركني الغربي (West Corner Yellow Block)",
+    "nameEn": "West Corner Yellow Block",
+    "colName": "الأصفر",
+    "color": "#eab308",
+    "category": "standalone",
+    "unitType": "فلل الركن الغربي",
+    "area": "430 م²",
+    "specs": "4 غرف نوم ماستر · حديقة واسعة جداً · مدخل سيارات مستقل",
+    "description": "فلل مستقلة في زاوية المشروع الغربية المرتفعة.",
+    "polygon": "300,340 650,345 535,590 300,590",
+    "center": [
+      475,
+      465
+    ],
+    "tourUrl": "https://satk-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1"
+  }
+]
