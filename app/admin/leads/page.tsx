@@ -40,7 +40,7 @@ export default function LeadsPage() {
                 combinedLeads.push({
                   id: d.id,
                   project_id: d.project_id || 'proj_grand_tower',
-                  project_name: proj?.project_name || 'Master plan',
+                  project_name: proj?.project_name || 'EL Ared',
                   duration_seconds: 120,
                   visitor_name: d.name || 'WhatsApp Inquiry',
                   visitor_phone: d.phone || '',
@@ -81,7 +81,7 @@ export default function LeadsPage() {
                   combinedLeads.push({
                     id: p.id,
                     project_id: p.project_id || 'proj_grand_tower',
-                    project_name: proj?.project_name || 'Master plan',
+                    project_name: proj?.project_name || 'EL Ared',
                     duration_seconds: 180,
                     visitor_name: p.name || 'Lead Inquiry',
                     visitor_phone: p.phone,
