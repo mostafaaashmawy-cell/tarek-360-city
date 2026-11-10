@@ -45,7 +45,7 @@ export const MASTERPLAN_BLOCKS_HD: MasterPlanBlock[] = [
     polygon: '2378,400 2456,308 2518,294 2580,310 2492,430',
     center: [2485, 348],
     color: '#eab308',
-    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1',
+    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Al-Qirwan',
   },
   {
     id: 'block_green_top',
@@ -59,7 +59,7 @@ export const MASTERPLAN_BLOCKS_HD: MasterPlanBlock[] = [
     polygon: '2080,326 2154,312 2346,302 2380,304 2384,316 2372,346 2328,390 2114,364',
     center: [2270, 333],
     color: '#22c55e',
-    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1',
+    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Al-Qirwan',
   },
   {
     id: 'block_red_top',
@@ -73,7 +73,7 @@ export const MASTERPLAN_BLOCKS_HD: MasterPlanBlock[] = [
     polygon: '1750,490 2008,318 2042,324 2092,354 2088,372 1868,542 1768,510',
     center: [1945, 416],
     color: '#ef4444',
-    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1',
+    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Al-Qirwan',
   },
   {
     id: 'block_cyan_east_mid',
@@ -87,7 +87,7 @@ export const MASTERPLAN_BLOCKS_HD: MasterPlanBlock[] = [
     polygon: '2118,406 2154,368 2216,362 2456,442 2408,506 2240,462',
     center: [2265, 424],
     color: '#06b6d4',
-    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=satk-masterplan',
+    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=tarek-el-ared',
   },
   {
     id: 'block_pink_center_north',
@@ -101,7 +101,7 @@ export const MASTERPLAN_BLOCKS_HD: MasterPlanBlock[] = [
     polygon: '1248,574 1522,424 1610,460 1332,638 1248,588',
     center: [1392, 537],
     color: '#ec4899',
-    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1',
+    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Al-Qirwan',
   },
   {
     id: 'block_yellow_west_mid',
@@ -115,7 +115,7 @@ export const MASTERPLAN_BLOCKS_HD: MasterPlanBlock[] = [
     polygon: '526,576 776,470 858,472 888,500 602,634 584,634 534,602',
     center: [681, 555],
     color: '#eab308',
-    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1',
+    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Al-Qirwan',
   },
   {
     id: 'block_green_center',
@@ -129,7 +129,7 @@ export const MASTERPLAN_BLOCKS_HD: MasterPlanBlock[] = [
     polygon: '1556,548 1560,528 1578,512 1660,476 1856,552 1894,578 1804,670 1560,558',
     center: [1684, 553],
     color: '#22c55e',
-    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=satk-masterplan',
+    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=tarek-el-ared',
   },
   {
     id: 'block_pink_east_mid',
@@ -143,7 +143,7 @@ export const MASTERPLAN_BLOCKS_HD: MasterPlanBlock[] = [
     polygon: '1918,560 1940,516 1988,480 2274,586 2286,604 2224,682',
     center: [2105, 571],
     color: '#ec4899',
-    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1',
+    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Al-Qirwan',
   },
   {
     id: 'block_pink_west_center',
@@ -157,7 +157,7 @@ export const MASTERPLAN_BLOCKS_HD: MasterPlanBlock[] = [
     polygon: '746,722 748,702 772,686 1092,528 1158,554 1170,574 1168,604 826,788',
     center: [960, 645],
     color: '#ec4899',
-    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=satk-masterplan',
+    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=tarek-el-ared',
   },
   {
     id: 'block_yellow_east_avenue',
@@ -171,7 +171,7 @@ export const MASTERPLAN_BLOCKS_HD: MasterPlanBlock[] = [
     polygon: '1822,672 1924,578 2208,688 2216,702 2130,802',
     center: [2060, 688],
     color: '#eab308',
-    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1',
+    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Al-Qirwan',
   },
   {
     id: 'block_cyan_west_center',
@@ -185,7 +185,7 @@ export const MASTERPLAN_BLOCKS_HD: MasterPlanBlock[] = [
     polygon: '850,802 898,762 1214,592 1232,592 1314,642 948,876',
     center: [1076, 711],
     color: '#06b6d4',
-    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=satk-masterplan',
+    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=tarek-el-ared',
   },
   {
     id: 'block_cyan_center',
@@ -199,7 +199,7 @@ export const MASTERPLAN_BLOCKS_HD: MasterPlanBlock[] = [
     polygon: '1516,724 1554,676 1626,624 1788,694 1672,800',
     center: [1631, 704],
     color: '#06b6d4',
-    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1',
+    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Al-Qirwan',
   },
   {
     id: 'block_yellow_boulevard',
@@ -213,7 +213,7 @@ export const MASTERPLAN_BLOCKS_HD: MasterPlanBlock[] = [
     polygon: '1340,846 1364,804 1468,740 1554,776 1664,842 1546,954',
     center: [1489, 827],
     color: '#eab308',
-    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1',
+    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Al-Qirwan',
   },
   {
     id: 'block_blue_amenities',
@@ -241,7 +241,7 @@ export const MASTERPLAN_BLOCKS_HD: MasterPlanBlock[] = [
     polygon: '1556,964 1678,848 1906,964 1792,1100',
     center: [1733, 969],
     color: '#ec4899',
-    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1',
+    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Al-Qirwan',
   },
   {
     id: 'block_pink_front_west',
@@ -255,7 +255,7 @@ export const MASTERPLAN_BLOCKS_HD: MasterPlanBlock[] = [
     polygon: '1112,980 1136,944 1228,884 1282,862 1478,984 1302,1130 1116,1006',
     center: [1236, 970],
     color: '#ec4899',
-    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1',
+    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Al-Qirwan',
   },
   {
     id: 'block_orange_front_center',
@@ -269,7 +269,7 @@ export const MASTERPLAN_BLOCKS_HD: MasterPlanBlock[] = [
     polygon: '1330,1142 1376,1086 1492,992 1746,1132 1568,1308 1344,1162',
     center: [1476, 1137],
     color: '#f97316',
-    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Villa-a1',
+    tourUrl: 'https://tarek-360-city.mostafa-a-ashmawy.workers.dev?p=Al-Qirwan',
   },
 ];
 
@@ -723,4 +723,5 @@ export default function MasterPlanView({ onBackToRiyadh, onBackToOrbit }: Master
     </div>
   );
 }
+
 
